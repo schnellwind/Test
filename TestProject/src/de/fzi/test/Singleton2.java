@@ -30,5 +30,10 @@ public class Singleton2 {
 		System.out.println("s2 test");
 		
 	}
+	
+	public void test2(){
+		System.out.println("s2 test");
+		
+	}
 
 }
