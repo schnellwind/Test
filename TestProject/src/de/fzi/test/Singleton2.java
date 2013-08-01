@@ -23,6 +23,9 @@ public class Singleton2 {
 		System.out.println("get s1");
 	}
 	
+	/**
+	 * 
+	 */
 	public void test(){
 		System.out.println("s2 test");
 		
