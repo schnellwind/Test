@@ -9,5 +9,9 @@ public class TestStarter2 {
 		// TODO Auto-generated method stub
 //sdgdfgdfgdf
 	}
+	
+	private static void test(){
+		
+	}
 
 }
